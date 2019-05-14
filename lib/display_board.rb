@@ -14,3 +14,4 @@ puts dsipaly_board(board)
 #board [" "," "," "," "," "," "," "," "," "]
 #end
 #puts display_board (board)
+puts "#{1+1}"

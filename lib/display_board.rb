@@ -9,6 +9,7 @@ def display_board (board)
 end
 
 puts dsipaly_board(board)
+
 #def display_board (board)
 #board [" "," "," "," "," "," "," "," "," "]
 #end

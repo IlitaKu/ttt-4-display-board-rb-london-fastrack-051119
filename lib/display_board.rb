@@ -11,4 +11,4 @@ end
 def display_board (board)
 board [" "," "," "," "," "," "," "," "," "]
 end
-puts display_board
+puts display_board (board)
